@@ -1,7 +1,7 @@
-module github.com/mrhelloboy/seven/exampleSite
+module github.com/KFCP/hugoseven/exampleSite
 
 go 1.22
 
-replace github.com/mrhelloboy/seven => ../
+replace github.com/KFCP/hugoseven => ../
 
-require github.com/mrhelloboy/seven v0.0.0-00010101000000-000000000000 // indirect
+require github.com/KFCP/hugoseven v0.0.0-00010101000000-000000000000 // indirect
