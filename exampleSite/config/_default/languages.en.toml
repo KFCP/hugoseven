@@ -1,9 +1,9 @@
 languageCode = "en"
 languageName = "English"
-title = "Seven Theme"
+title = "Pellucid Resonance"
 weight = 2
 
 [params]
-  description = "A Simple And Beautiful Blog Theme For Hugo"
+  description = "Something, once quiet, remains."
   omitCategoryOnMenu = false
   categoryName = "Category"
