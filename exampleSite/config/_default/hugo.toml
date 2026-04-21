@@ -1,4 +1,4 @@
-baseURL = "https://vfcp.cn"
+baseURL = "https://blog.vfcp.cn"
 
 hasCJKLanguage = true
 defaultContentLanguage = "zh-hans"
