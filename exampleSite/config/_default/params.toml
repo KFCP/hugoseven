@@ -7,7 +7,7 @@
 
 [app]
   # Optional site title override for the app when added to an iOS home screen or Android launcher
-  title = "Seven Theme"
+  title = "Pellucid Resonance"
 
   # whether to omit favicon resource links
   noFavicon = false
@@ -52,17 +52,17 @@
     url = ""
   [follow.github]
     enable = true
-    url = "https://github.com/mrhelloboy/seven"
+    url = "https://github.com/KFCP/hugoseven"
   [follow.x]
     enable = true
     url = ""
   [follow.wechat]
     enable = true
-    QRCodeUrl = "/images/society/wechat/wechat.jpg"
+    QRCodeUrl = ""
 
 [copyright]
-  owner = "Seven"
-  startYear = "2023"
+  owner = "KFCP"
+  startYear = "2026"
 
 [articleMeta]
   disableImgGradient = false
@@ -71,7 +71,7 @@
   enablePageView = true
 
 [comment]
-  enable = true
+  enable = false
   enableCounts = true  # Note: only works if waline or twikoo is enabled.
   [comment.waline]
     enable = true
@@ -102,8 +102,8 @@
     # see: https://gohugo.io/content-management/front-matter/#front-matter-variables
     params = ["tags"]
 
-    app_id = "995JRM5ZAU"
-    api_key = "4a1095e4b8c96d2baee42d4c64b16afa"
+    app_id = "1QF5GPI7UM"
+    api_key = "635a42a781c2ae1a5c9619f9f38d7be1"
     index = "hugo_theme_seven_demo"
 
     # see: https://www.algolia.com/doc/api-reference/widgets/snippet/js/#about
@@ -114,5 +114,5 @@
 
 [analytics]
   [analytics.goatcounter]
-    enable = true
+    enable = false
     code = "seven-demo"  
